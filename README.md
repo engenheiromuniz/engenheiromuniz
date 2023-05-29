@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Andre MUNIZ
-- 👀 I’m interested in JAVA, GoLang, C/C++, Arduino
-- 🌱 I’m currently learning Golang
-- 💞️ I’m looking to collaborate on ...
+- 👀 Data Engineering
+- 🌱 Python, SPARK, Databricks
+- 💞️ Hadoop
 - 📫 How to reach me - engenheiro.muniz@gmail.com or my cel phone(61)98115-5454
 
 <!---
