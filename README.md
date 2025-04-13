@@ -25,7 +25,7 @@ I'm a developer passionate about building secure and efficient web applications.
 * Kubernetes
 * Cloud knowledge (Azure, studying AWS and GCP).
 
-- 📫 How to reach me - engenheiro.muniz@gmail.com or my cel phone(61)98115-5454
+- 📫 How to reach me - engenheiro.muniz@outlook.com or my cel phone(61)98115-5454
 
 <!---
 engenheiromuniz/engenheiromuniz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
