@@ -1,4 +1,4 @@
-# Hello! My name is André Muniz 👋
+# André Muniz 👋
 
 <img src="https://komarev.com/ghpvc/?username=engenheiromuniz&label=Profile+views&color=0e75b6&style=flat" alt="Profile views" />
 
