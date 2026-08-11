@@ -40,20 +40,14 @@ Here are some of the technologies and tools I work with:
 
 ---
 
-### 📈 GitHub Stats
+### 📈 Development Metrics
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=engenheiromuniz&show_icons=true&theme=gotham" alt="André's GitHub Stats" height="170" />
-  <img src="https://herokuapp.com" alt="GitHub Streak" height="170" />
-</p>
-
-### 💻 Linguagens Mais Utilizadas
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=engenheiromuniz&layout=compact&theme=buefy" alt="Top Languages" height="170" />
-</p>
+* 🚀 **Foco de Engenharia:** Arquitetura de Microsserviços, Sistemas Distribuídos e Mensageria Assíncrona.
+* 💻 **Linguagens Principais:** Java (Spring Boot), TypeScript (Angular/React) e SQL (PostgreSQL).
+* ⚙️ **Cultura DevOps:** Containerização com Docker, Orquestração via Docker Compose e Service Discovery.
 
 ---
+
 
 ### 🌐 Connect with me
 
