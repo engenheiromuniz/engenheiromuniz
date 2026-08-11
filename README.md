@@ -42,9 +42,16 @@ Here are some of the technologies and tools I work with:
 
 ### 📈 GitHub Stats
 
-[![André's GitHub Stats](https://github-readme-stats.vercel.app/api?username=engenheiromuniz&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=engenheiromuniz&show_icons=true&theme=gotham" alt="André's GitHub Stats" height="170" />
+  <img src="https://herokuapp.com" alt="GitHub Streak" height="170" />
+</p>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=engenheiromuniz&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+### 💻 Linguagens Mais Utilizadas
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=engenheiromuniz&layout=compact&theme=buefy" alt="Top Languages" height="170" />
+</p>
 
 ---
 
